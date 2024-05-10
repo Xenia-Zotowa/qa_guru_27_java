@@ -2,7 +2,7 @@ package guru.qa;
 
 public class Main {
     public static void main(String[] args) {
-        //Целочисленные типы
+
         byte aByte = 100; // 8b -128 +127
         byte bByte = 50;
         byte xByte = (byte) (aByte+bByte);
